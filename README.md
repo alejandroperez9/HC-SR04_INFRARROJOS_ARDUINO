@@ -1,6 +1,6 @@
 # HC-SR04_INFRARROJOS_ARDUINO
 
-<img style="margin-top: 40px;" align="right" width="200px" src="./IMAGENES/COCHERA.gif" alt="COCHERA_3D" width="300px">
+<img style="margin-top: 20px;" align="right" width="230px" src="./IMAGENES/COCHERA.gif" alt="COCHERA_3D">
 
 ## Apertura de una puerta de garaje con un sensor de ultrasonidos y como segunda opción, apertura con mando infrarrojos.
 
