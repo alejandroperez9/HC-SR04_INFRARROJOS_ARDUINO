@@ -1,7 +1,6 @@
-------------------------------------------------------------
-Lista de materiales para la construción de una Cochera,
-accionada por un servo:
-------------------------------------------------------------
+-------------------------------------------------------------------------------
+Lista de materiales para la construción de una Cochera, accionada por un servo:
+-------------------------------------------------------------------------------
     
    ---------------------------
     Construcción del cuerpo:
