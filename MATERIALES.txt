@@ -1,0 +1,23 @@
+------------------------------------------------------------
+Lista de materiales para la construción de una Cochera,
+accionada por un servo:
+------------------------------------------------------------
+    
+   ---------------------------
+    Construcción del cuerpo:
+   ---------------------------
+      - Caja de cartón, para la construcción de la cochera.
+	- Tablero de madero para la base.
+	- Cinta aislante.
+	- Fichas de conexión // empalme.
+
+     
+   --------------------------- 
+    Componentes electrónicos:
+   ---------------------------
+      - Arduino Uno o similar.
+	- Sensor HC-SR04.
+	- Receptor Infrarrojos. 
+	- x1 LED.
+      - x1 Servo Motor.
+      - Jumpers o cables de conexión.
