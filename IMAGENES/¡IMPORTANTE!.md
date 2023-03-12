@@ -6,6 +6,5 @@
 
 
 ## Conclusión:
-#
 
 Este modelo base funciona al 100%, con la salvedad del sistema del servo, solucionandose de manera muy sencilla, cambiando el servo por uno mas potente.
